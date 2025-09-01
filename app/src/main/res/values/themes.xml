@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AuricSnap" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/navyBlue</item>
+    </style>
+
+
+    <!-- This theme's only job is to disable the native splash screen -->
+    <style name="Theme.App.Splash" parent="Theme.AuricSnap">
+        <!-- Make the preview window transparent -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- Set a transparent background. Optional but good practice. -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+</resources>
