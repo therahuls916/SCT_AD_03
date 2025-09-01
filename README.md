@@ -8,11 +8,9 @@ Auric Stopwatch is a modern, feature-rich time-tracking utility for Android, bui
 
 ## 📸 Screenshots
 
-*(You can replace these placeholders with links to your actual screenshots)*
-
-| Splash Screen | Main Screen (with Laps) | Picture-in-Picture (PiP) Mode |
-| :---: |:---:|:---:|
-| `[Link to Splash Screen Image]` | `[Link to Main Screen Image]` | `[Link to PiP Window Image]` |
+| Splash Screen | Main Screen (Initial) | Main Screen (Running) | Main Screen (With Laps) | Picture-in-Picture (PiP) |
+| :---: |:---:|:---:|:---:|:---:|
+| ![Splash Screen](https://github.com/user-attachments/assets/903f3349-a0d1-4965-8127-820adc5b9c47) | ![Empty Stopwatch](https://github.com/user-attachments/assets/0988d071-4dd4-48df-a40f-eba1e95ce09c) | ![Running Stopwatch](https://github.com/user-attachments/assets/8ed3ccad-2cef-4e69-b2b9-9dc009500b9f) | ![Lap List](https://github.com/user-attachments/assets/eaabc19d-c798-4f2e-845a-2db90e6bb98c) | ![PiP Mode](https://github.com/user-attachments/assets/2e8b8f7b-f9ad-4495-a21f-8f60eaca5b1a) |
 
 ---
 
@@ -122,4 +120,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## 👨‍💻 Developer
 
 **Rahul Salunke**  
-[GitHub](https://github.com/therahuls916) | [LinkedIn](https://www.linkedin.com/in/rahulasalunke/)
+[GitHub](https://github.com/therahuls916)  
+[LinkedIn](https://www.linkedin.com/in/rahulasalunke/)
